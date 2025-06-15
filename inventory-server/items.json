@@ -1,0 +1,12 @@
+[
+  { "id": "1", "name": "Classic Abaya", "price": "15000", "size": "M" },
+  { "id": "2", "name": "Premium Hijab", "price": "5000", "size": "Free" },
+  { "id": "3", "name": "Embroidered Abaya", "price": "20000", "size": "L" },
+  { "id": "4", "name": "Silk Scarf", "price": "3500", "size": "Free" },
+  { "id": "5", "name": "Two-piece Jilbab", "price": "18000", "size": "XL" },
+  { "id": "6", "name": "Niqab Set", "price": "8000", "size": "Free" },
+  { "id": "7", "name": "Everyday Abaya", "price": "13000", "size": "S" },
+  { "id": "8", "name": "Chiffon Hijab", "price": "4000", "size": "Free" },
+  { "id": "9", "name": "Prayer Dress", "price": "10000", "size": "L" },
+  { "id": "10", "name": "Luxury Abaya", "price": "25000", "size": "M" }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "inventory-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MethodHandlers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Awanat Olawale",
+  "license": "ISC"
+}
